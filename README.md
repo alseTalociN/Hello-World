@@ -1,2 +1,3 @@
 # Hello-World
-This is my first repository, just created it for fun.
+ 
+ I am alseTalociN, hii from me. want to become a succesful programmer in the future.
